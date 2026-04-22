@@ -8,7 +8,7 @@ from sklearn.preprocessing import LabelEncoder
 
 # Set page config
 st.set_page_config(
-    page_title="Ahmedabad HeatResilient Dashboard",
+    page_title="Ahmedabad HeatResilient Dashboard By IU2341230371 & IU2341230372",
     page_icon="🌡️",
     layout="wide"
 )
